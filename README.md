@@ -28,8 +28,8 @@ Phát triển một mô hình học sâu giúp **phân loại rác thải thành
 
 - Tổng cộng: **2.233 hình ảnh thực tế** thu thập từ Internet.
 - Chia thành:
-  - **999 ảnh**: Dùng để **huấn luyện**
-  - **1.234 ảnh**: Dùng để **kiểm tra và đánh giá**
+  - **1700 ảnh**: Dùng để **huấn luyện**
+  - **533 ảnh**: Dùng để **kiểm tra và đánh giá**
 - Phân loại:
   - ♻️ **Tái chế được**: chai nhựa, túi vải, hộp nhựa,...
   - 🚯 **Không tái chế được**: thức ăn thừa, bao ni lông, hộp xốp, rác hữu cơ...
